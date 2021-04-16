@@ -1,4 +1,4 @@
-name: entitylink
+name: ipykgb
 channels:
   - conda-forge
   - defaults
