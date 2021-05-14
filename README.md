@@ -27,7 +27,7 @@ Darth Vader, also known by his birth name Anakin Skywalker, is a fictional chara
 1. Create new conda environment:\
    `conda env create -f environment.yml`
 2. Activate environment:\
-   `conda activate entitylink`
+   `conda activate ipykgb`
 3. Download CoreNLP 4.2.0 and place in root folder of this repo:\
    [`https://stanfordnlp.github.io/CoreNLP/download.html`](https://stanfordnlp.github.io/CoreNLP/download.html)
    
