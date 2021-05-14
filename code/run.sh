@@ -2,7 +2,7 @@
 ## Start Topic Name
 startTopic="Star Wars"
 ## Number of Topics for Dataset
-numOfTopics=5
+numOfTopics=100
 ## Dataset Filepath
 dataset_path="./star_wars.txt"
 ## Cleaned Dataset Filepath

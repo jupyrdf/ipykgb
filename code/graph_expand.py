@@ -51,7 +51,7 @@ if __name__ == '__main__':
     # if "\r" in dataset_path:
     #     dataset_path = dataset_path.replace("\r", "")
 
-    dataset_path = './star_wars_cleaned_triples.txt'
+    dataset_path = './star_wars_triples_pruned.txt'
     output_path = './new_star_wars.ttl'
     kb_path = './starwars.ttl'
     main(dataset_path, kb_path, output_path)
